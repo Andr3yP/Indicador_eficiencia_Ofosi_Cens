@@ -1,6 +1,6 @@
-pandas
-numpy
-seaborn
-matplotlib
-xlrd
-openpyxl
+pandas==1.5.0
+numpy==1.21.2
+seaborn==0.11.2
+matplotlib==3.4.3
+xlrd==2.0.1
+openpyxl==3.0.9
